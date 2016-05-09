@@ -8,6 +8,8 @@ public class 해봐 {
 		System.out.println("아 배가 부글거렼ㅋㅋㅋㅋㅋㅋ");
 		System.out.println("흐엉");
 		System.out.println("장트러블인듯하다");
+		System.out.println("흐엉ㅋㅋㅋ");
+		System.out.println("장트러블인듯하다ㅋㅋㅋㅋ");
 	}
 
 }

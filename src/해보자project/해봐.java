@@ -6,7 +6,7 @@ public class ÇØºÁ {
 		// TODO Auto-generated method stub
 		System.out.println("!!");
 		System.out.println("¾Æ ¹è°¡ ºÎ±Û°ÅŽÄ¤»¤»¤»¤»¤»¤»");
-		
+		System.out.println("Èå¾û");
 	}
 
 }
